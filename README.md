@@ -15,6 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![nasum's github stats](https://github-readme-stats.vercel.app/api?username=nasum&count_private=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nasum)](https://github.com/anuraghazra/github-readme-stats)
+<!--START_SECTION:lapras-card-->
+<!--END_SECTION:lapras-card-->
